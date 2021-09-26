@@ -3,13 +3,10 @@ package br.dev.manager.aspire.model.dto;
 import java.util.ArrayList;
 import java.util.List;
 
-import br.dev.manager.aspire.model.Funcionario;
-
 public class FuncionarioDTOList<T> {
 
 	private List<T> funcionarios;
 
-	
 	public FuncionarioDTOList(List<T> funcionarios) {
 		this.funcionarios = funcionarios;
 	}
