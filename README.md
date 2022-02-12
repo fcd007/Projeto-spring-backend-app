@@ -15,7 +15,6 @@ Projeto Java + ReactJS web full-stack que é um aplicativo básico de gerenciame
 Verifique o ambiente com os seguintes parâmetros:
 
 - Instalação Java 8+;
-- yarn ou npm - NodeJS 14+;
 - Eclipse IDE ou Spring Tool Suite [STS];
 - Verifique o projeto backend - script de criação do banco de dados;
 - MS SQL Server 2016+;
@@ -29,15 +28,6 @@ Verifique o ambiente com os seguintes parâmetros:
 - JDK 1.8
 - Tomcat 9+ / JBoss Wildfly
 - Banco de dados MS SQL Server
-
-## Ferramentas e tecnologias do lado do cliente usadas
-
-- React
-- Modern JavaScript (ES6)
-- NodeJS and Yarn
-- VS Code IDE
-- Create React App CLI
-- Bootstrap 4.5 and Axios HTTP Library
 
 Bora ao projeto, entra na pasta frontend e execute:
 
