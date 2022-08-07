@@ -4,11 +4,11 @@
 
 Projeto Java + ReactJS web full-stack que é um aplicativo básico de gerenciamento de funcionários com recursos CRUD:
 
-- Listar | GET | `funcionarios/api/v1/funcionarios` | Status Code (200 (OK)) | Busca todos os funcionários
-- Criar | POST | `funcionarios/api/v1/funcionarios/criar` | Status Code (201 (OK)) | criar um novo funcionário
-- Buscar | GET | `funcionarios/api/v1/funcionarios/{id}` | Status Code (200 (OK)) | Buscar funcionário
-- Editar | PUT | `funcionarios/api/v1/funcionarios/{id}` | Status Code (200 (OK)) | Atualizar funcionário
-- Excluir | DELETE | `funcionarios/api/v1/funcionarios/{id}` | Status Code (204 (No Content)) | Deletar funcionário
+- Listar | GET | `localhost:8080/api/v1/funcionarios` | Status Code (200 (OK)) | Busca todos os funcionários
+- Criar | POST | `localhost:8080/api/v1/funcionarios/criar` | Status Code (201 (OK)) | criar um novo funcionário
+- Buscar | GET | `localhost:8080/api/v1/funcionarios/{id}` | Status Code (200 (OK)) | Buscar funcionário
+- Editar | PUT | `localhost:8080/api/v1/funcionarios/{id}` | Status Code (200 (OK)) | Atualizar funcionário
+- Excluir | DELETE | `localhost:8080/api/v1/funcionarios/{id}` | Status Code (204 (No Content)) | Deletar funcionário
 
 ## Antes de iniciar
 
